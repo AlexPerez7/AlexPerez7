@@ -2,12 +2,6 @@
 # Hi, I'm Alex Pérez👋
 <br>I'm a computer science student passionate about technology and sports. I love learning new technologies and tools and am always looking for new challenges. Here are a few things I'd like to share about myself:<br>• 🌱 I'm currently learning web development and Python.<br>• 📖 I love reading thriller and horror/suspense books.<br>• ⚽ I enjoy playing sports like soccer, cycling, and boxing.<br>• 🎮 I'm passionate about video games and am always looking for new titles to play. 
 
-# <br>Technologies and Tools<br>
-Here are some technologies and tools I have experience with:<br>•Programming languages: Python, HTML, CSS, JavaScript<br>• Frameworks: Django, React<br>• Tools: Git, VS Code, Jupyter Notebook
-# <br>Contact<br>
-If you want to get in touch, you can find me at:<br>• LinkedIn: https://www.linkedin.com/in/alex-pérez-argomedo-b64b9b1b7/<br>• Email: a.perez.argomedo@gmail.com<br>Thanks for visiting my GitHub profile! Feel free to explore my repositories and don't hesitate to contact me if you have any questions or comments.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alexmatiasperezargomedo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aleex_p.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-pérez-argomedo-b64b9b1b7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Argoxxx7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21684472) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aleex_p.a) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/wizaleh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PerezAleex7) 
 
