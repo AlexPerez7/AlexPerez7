@@ -9,7 +9,23 @@
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16018274/alex-p%c3%a9rez)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,js,java,html,css,bootstrap,tailwind,django,flask,nodejs,anaconda,git,windows,linux,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.python.org/)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlexPerez7&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexPerez7&theme=blueberry&hide_border=false)<br/>
