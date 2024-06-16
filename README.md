@@ -32,9 +32,10 @@
 
 <!--- snake -->
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/AlexPerez7/AlexPerez7/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
