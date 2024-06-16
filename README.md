@@ -31,6 +31,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPerez7&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--- snake -->
-![snake gif](https://github.com/AlexPerez7/AlexPerez7/blob/output/github-contribution-grid-snake.gif)
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/AlexPerez7/AlexPerez7/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
