@@ -16,6 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=astro)](https://astro.build/)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
