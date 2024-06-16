@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi, I'm Alex Pérez👋
-<br>I'm a Computer Engineer passionate about technology and sports. I love learning new technologies and tools and am always looking for new challenges. Here are a few things I'd like to share about myself:<br>• 🌱 I'm currently learning web development and Python.<br>• 📖 I love reading thriller and horror/suspense books.<br>• ⚽ I enjoy playing sports like soccer, cycling, and boxing.<br>• 🎮 I'm passionate about video games and am always looking for new titles to play. 
+<br>I'm a Computer Engineer passionate about technology and sports. I love learning new technologies and tools and am always looking for new challenges. Here are a few things I'd like to share about myself:<br>• 🌱 I’m currently learning Backend and Frontend Development.<br>• 📖 I love reading thriller and horror/suspense books.<br>• ⚽ I enjoy playing sports like soccer, cycling, and boxing.<br>• 🎮 I'm passionate about video games and am always looking for new titles to play. 
 
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alex-p%C3%A9rez-argomedo-b64b9b1b7/)
