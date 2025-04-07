@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alex-p%C3%A9rez-argomedo-b64b9b1b7/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aleex_p.a/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:a.perez.argomedo@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:alexmatiasp01@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16018274/alex-p%c3%a9rez)
 
 # 💻 Tech Stack:
