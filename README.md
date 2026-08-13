@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Alex Pérez 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B6CB7,100:182848&height=200&section=header&text=Hi,%20I'm%20Alex%20Pérez%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20|%20Backend%20&%20Frontend%20Developer&descAlignY=55&descSize=18" alt="header banner" width="100%"/>
+</p>
 
 <p align="center">
-  Computer Engineer focused on Backend & Frontend Development
+  <a href="https://github.com/AlexPerez7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4B6CB7&center=true&vCenter=true&width=500&lines=Passionate+about+technology+and+sports;Always+learning+new+tools+and+frameworks;Backend+%26+Frontend+Development" alt="Typing SVG" />
+  </a>
 </p>
 
 ## 🧭 About Me
@@ -44,8 +48,20 @@ I'm a Computer Engineer passionate about technology and sports. I enjoy learning
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPerez7&theme=blueberry&hide_border=false&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexPerez7&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+</p>
+
 ## ✍️ Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexPerez7/AlexPerez7/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
