@@ -37,21 +37,16 @@ I'm a Computer Engineer passionate about technology and sports. I enjoy learning
 **Databases**
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+- **[expense-tracker (Ledger)](https://github.com/AlexPerez7/expense-tracker)** — PWA en React + Vite para gestionar gastos personales: importa cartolas bancarias, categoriza movimientos automáticamente y sincroniza todo vía Supabase.
+- **[AutoPedia](https://github.com/AlexPerez7/AutoPedia)** — Catálogo de autos hecho en Django, con marcas, modelos y gestión de usuarios.
+- **[AlexBeats Discord Music Bot](https://github.com/AlexPerez7/AlexBeats-Discord-Music-Bot)** — Bot de música para Discord escrito en Python.
+
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats-tawny-theta-bpa8qwdmdw.vercel.app/api?username=AlexPerez7&show_icons=true&theme=blueberry&hide_border=false&cache_seconds=86400" alt="Alex's GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=AlexPerez7&theme=blueberry&hide_border=false" alt="Alex's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-tawny-theta-bpa8qwdmdw.vercel.app/api/top-langs/?username=AlexPerez7&theme=blueberry&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" height="165"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-five-alpha.vercel.app/?username=AlexPerez7&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&cache_seconds=86400" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexPerez7&theme=react-dark&hide_border=true" alt="Alex's GitHub Activity Graph"/>
 </p>
 
 ## ✍️ Random Dev Quote
