@@ -41,7 +41,7 @@ I'm a Computer Engineer passionate about technology and sports. I enjoy learning
 
 <p align="center">
   <img src="https://github-readme-stats-tawny-theta-bpa8qwdmdw.vercel.app/api?username=AlexPerez7&show_icons=true&theme=blueberry&hide_border=false&cache_seconds=86400" alt="Alex's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexPerez7&theme=blueberry&hide_border=false" alt="Alex's GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=AlexPerez7&theme=blueberry&hide_border=false" alt="Alex's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ I'm a Computer Engineer passionate about technology and sports. I enjoy learning
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexPerez7&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&cache_seconds=86400" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-five-alpha.vercel.app/?username=AlexPerez7&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&cache_seconds=86400" alt="GitHub Trophies"/>
 </p>
 
 ## ✍️ Random Dev Quote
