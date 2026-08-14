@@ -40,12 +40,12 @@ I'm a Computer Engineer passionate about technology and sports. I enjoy learning
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexPerez7&show_icons=true&theme=blueberry&hide_border=false&cache_seconds=86400" alt="Alex's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-silk-zeta-97.vercel.app/api?username=AlexPerez7&show_icons=true&theme=blueberry&hide_border=false&cache_seconds=86400" alt="Alex's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexPerez7&theme=blueberry&hide_border=false" alt="Alex's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPerez7&theme=blueberry&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-silk-zeta-97.vercel.app/api/top-langs/?username=AlexPerez7&theme=blueberry&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" height="165"/>
 </p>
 
 ## 🏆 GitHub Trophies
